@@ -64,7 +64,7 @@ ul.navbar-nav li.nav-dropdown{
 }
 
 .registerBody{
-    background-image: url('/Images/register.jpeg');
+    background-image: url('/Images/registernew.jpg');
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Times New Roman', Times, serif;
@@ -112,7 +112,7 @@ h4{
     color: red;
 }
 .text{
-    color: white;
+    color: black;
 }
 #signin{
     margin: left 0%;
