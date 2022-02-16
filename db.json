@@ -1,26 +1,122 @@
 {
   "users": [
     {
-      "id": "",
-     "name":"",
-     "email":"",
-     "age":"",
-     "city":"",
-     "genderM":"",
-     "genderF":"",
-     "mobile":"",
-     "username":"",
-     "password":""
-    }
-  ],
-  "comments": [
+      "name": "qwerty",
+      "email": "qwe@gmail.com",
+      "age": "25",
+      "city": "Pune",
+      "gender": "male",
+      "mobile": "1234567890",
+      "username": "qwerty",
+      "password": "Qwerty@123",
+      "confirmpassword": "Qwerty@123",
+      "id": "EohHxb5"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "qwerty",
+      "email": "qwerty@gmail.com",
+      "age": "26",
+      "city": "Pune",
+      "gender": "male",
+      "mobile": "1234567890",
+      "username": "tyqwer",
+      "password": "Qwerty@123",
+      "confirmpassword": "Qwerty@123",
+      "id": "lO2NOC4"
+    },
+    {
+      "name": "Md Sajid",
+      "email": "sajidganim16@gmail.com",
+      "age": "27",
+      "city": "Pratapgarh",
+      "gender": "male",
+      "mobile": "8767476153",
+      "username": "Sajid",
+      "password": "Qwerty@123",
+      "confirmpassword": "Qwerty@123",
+      "id": "1l_UPUJ"
+    },
+    {
+      "name": "Rashmi",
+      "email": "rashmi98@gmail.com",
+      "age": "25",
+      "city": "Pune",
+      "gender": "female",
+      "mobile": "1234567890",
+      "username": "rashmi",
+      "password": "Qwerty@123",
+      "confirmpassword": "Qwerty@123",
+      "id": "Q3p8JpY"
+    },
+    {
+      "name": "Ketan patil",
+      "email": "ketan@gmail.com",
+      "age": "29",
+      "city": "Pune",
+      "gender": "male",
+      "mobile": "1234567890",
+      "username": "ketan",
+      "password": "Qwerty@123",
+      "confirmpassword": "Qwerty@123",
+      "id": "5OHF0Vc"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "doctor": [
+    {
+      "id": "1",
+      "firstName": "jayesh",
+      "lastName": "Jadhav",
+      "Gender": "male",
+      "email": "jayeshjad@gmail.com",
+      "password": "jayesh1234",
+      "availability": "true",
+      "speciality": "Dermatologist",
+      "eductaion": "BAMS",
+      "appointments[0][userName]": "",
+      "appointments[0][startDate]": "",
+      "appointments[0][endDate]": ""
+    },
+    {
+      "id": "2",
+      "firstName": "BabuSahab",
+      "lastName": "Patil",
+      "Gender": "male",
+      "email": "patil@gmail.com",
+      "password": "patil1234",
+      "availability": "true",
+      "speciality": "Cardiologist",
+      "eductaion": "BHMS",
+      "appointments[0][userName]": "",
+      "appointments[0][startDate]": "",
+      "appointments[0][endDate]": ""
+    },
+    {
+      "id": "3",
+      "firstName": "akhsay",
+      "lastName": "jadhav",
+      "Gender": "male",
+      "email": "akshay@gmail.com",
+      "password": "akshay234",
+      "availability": "true",
+      "speciality": "Surgen",
+      "eductaion": "MBBS",
+      "appointments[0][userName]": "",
+      "appointments[0][startDate]": "",
+      "appointments[0][endDate]": ""
+    },
+    {
+      "id": "4",
+      "firstName": "Vandana",
+      "lastName": "singh",
+      "Gender": "female",
+      "email": "vandana@gmail.com",
+      "password": "vandana234",
+      "availability": "true",
+      "speciality": "Dentist",
+      "eductaion": "BDS",
+      "appointments[0][userName]": "",
+      "appointments[0][startDate]": "",
+      "appointments[0][endDate]": ""
+    }
+  ]
 }
